@@ -1,12 +1,5 @@
 # BÁO CÁO TÌM HIỂU VÀ THỰC HÀNH KIỂM THỬ HIỆU NĂNG VỚI APACHE JMETER
 
-- **Sinh viên:** Họ và tên – MSSV
-- **Lớp:** ………
-- **Môn học:** Kiểm thử phần mềm
-- **Giảng viên:** ………
-
----
-
 ## 1. Giới thiệu về JMeter
 
 **Apache JMeter** là công cụ mã nguồn mở viết bằng Java, dùng để **kiểm thử hiệu năng (performance testing)** và kiểm thử chức năng cho ứng dụng web, API, cơ sở dữ liệu, FTP, ...
